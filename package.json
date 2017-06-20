@@ -1,0 +1,11 @@
+{
+  "name": "mdns-identifier",
+  "version": "1.0.0",
+  "description": "Identify and speak aloud names gleaned from mdns packet sniffing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zane Mountcastle",
+  "license": "MIT"
+}
