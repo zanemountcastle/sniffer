@@ -1,3 +1,7 @@
+// TODO: Add more dynamic greetings
+// TODO: Make greetings creepier ("That's a nice iPhone you have, Zane")
+// TODO: Support more platforms than iOS/MacOS (Android, Windows, Linux, etc.)
+
 var mdns = require('multicast-dns')()
 var say = require('say');
 
