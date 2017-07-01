@@ -9,7 +9,7 @@
   "author": "Zane Mountcastle",
   "license": "MIT",
   "dependencies": {
-    "mdns": "^2.3.3",
+    "multicast-dns": "^6.1.1",
     "say": "^0.11.0"
   }
 }
